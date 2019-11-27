@@ -3,4 +3,6 @@ astropy
 astroquery
 matplotlib
 ipyaladin
+pyvo
+seaborn
 
