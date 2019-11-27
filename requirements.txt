@@ -1,6 +1,7 @@
 numpy
 astropy
 astroquery
+mocpy
 regions
 matplotlib
 ipyaladin
@@ -9,4 +10,3 @@ seaborn
 beakerx
 plotly
 jupyter-notebookparams
-
