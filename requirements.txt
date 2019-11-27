@@ -8,4 +8,5 @@ pyvo
 seaborn
 beakerx
 plotly
+jupyter-notebookparams
 

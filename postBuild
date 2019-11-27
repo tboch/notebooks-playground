@@ -1,3 +1,6 @@
 jupyter nbextension install --py --symlink --sys-prefix ipyaladin
 jupyter nbextension enable --py --sys-prefix ipyaladin
 
+jupyter nbextension install --py jupyter_notebookparams --sys-prefix
+jupyter nbextension enable --py jupyter_notebookparams --sys-prefix
+
