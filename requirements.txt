@@ -2,4 +2,5 @@ numpy
 astropy
 astroquery
 matplotlib
+ipyaladin
 
