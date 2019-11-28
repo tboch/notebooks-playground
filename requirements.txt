@@ -8,5 +8,6 @@ ipyaladin
 pyvo
 seaborn
 plotly
+beakerx
 py4j
 
