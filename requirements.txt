@@ -7,7 +7,6 @@ matplotlib
 ipyaladin
 pyvo
 seaborn
-beakerx
 plotly
 py4j
 
