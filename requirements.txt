@@ -12,6 +12,6 @@ plotly
 beakerx==1.3.0
 tornado==4.5.3
 py4j
-cv2
+opencv-python
 imageio
 
