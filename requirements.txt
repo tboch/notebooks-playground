@@ -9,7 +9,7 @@ ipyaladin
 pyvo
 seaborn
 plotly
-beakerx==1.3.0
+beakerx
 tornado
 py4j
 opencv-python
