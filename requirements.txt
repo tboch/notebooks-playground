@@ -14,4 +14,7 @@ tornado
 py4j
 opencv-python
 imageio
+cdshealpix
+PIL
+requests
 
